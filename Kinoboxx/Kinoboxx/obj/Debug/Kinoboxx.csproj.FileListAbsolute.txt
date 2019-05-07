@@ -1,0 +1,10 @@
+E:\Навчання\3 курс\2 семестр\Тестування\Forte\Kinoboxx\Kinoboxx\bin\Debug\Kinoboxx.exe.config
+E:\Навчання\3 курс\2 семестр\Тестування\Forte\Kinoboxx\Kinoboxx\bin\Debug\Kinoboxx.exe
+E:\Навчання\3 курс\2 семестр\Тестування\Forte\Kinoboxx\Kinoboxx\bin\Debug\Kinoboxx.pdb
+E:\Навчання\3 курс\2 семестр\Тестування\Forte\Kinoboxx\Kinoboxx\bin\Debug\WebDriver.dll
+E:\Навчання\3 курс\2 семестр\Тестування\Forte\Kinoboxx\Kinoboxx\bin\Debug\WebDriver.xml
+E:\Навчання\3 курс\2 семестр\Тестування\Forte\Kinoboxx\Kinoboxx\obj\Debug\Kinoboxx.csprojAssemblyReference.cache
+E:\Навчання\3 курс\2 семестр\Тестування\Forte\Kinoboxx\Kinoboxx\obj\Debug\Kinoboxx.csproj.CoreCompileInputs.cache
+E:\Навчання\3 курс\2 семестр\Тестування\Forte\Kinoboxx\Kinoboxx\obj\Debug\Kinoboxx.csproj.CopyComplete
+E:\Навчання\3 курс\2 семестр\Тестування\Forte\Kinoboxx\Kinoboxx\obj\Debug\Kinoboxx.exe
+E:\Навчання\3 курс\2 семестр\Тестування\Forte\Kinoboxx\Kinoboxx\obj\Debug\Kinoboxx.pdb
